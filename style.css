@@ -1,0 +1,310 @@
+
+.{}
+.new_text{}
+.new_text h1{color:#fff;font-size:14px;}
+.{}
+.{}
+.{}
+.{}
+
+
+body
+{
+background-color: #dcedd3;
+margin: 0px;
+font-family: "Open Sans Condensed";
+}
+
+
+header
+{
+
+margin-top: 0px;
+width: 100%;
+background-color: #3e414a ;
+padding:16px 0px;
+
+/*/ */
+}
+
+header h1{
+margin-left:16px;
+}
+
+
+
+
+#top{
+display: inline-block;
+}
+
+
+#fond
+{
+background-image: url("image/fond.jpg");
+padding: 80px;
+margin-top: 0px;
+text-align: center;
+
+
+}
+
+#titre {
+margin: 0px 0px 0px 30px;
+text-transform: uppercase;
+font-size: 25px;
+font-family: 'Roboto Slab', serif;
+color: white;
+letter-spacing:4px;
+
+}
+
+.liens{
+color: white;
+font-size: 30px;
+
+}
+
+nav ul
+{
+list-style-type: none;
+font-family: 'Lato', sans-serif;
+text-align:center;
+margin-top:15px;
+
+}
+
+nav li
+{
+/* OU ALORS POUR L'ECRITURE DE LA BANNIERE REMETTRE 'LATO', SANS-SERIF; */
+display: inline-block;
+padding: 0 40px;
+font-size: 16px;
+font-family: "Open Sans Condensed";
+margin-right:20px;
+
+
+}
+
+
+a
+{
+color: #57504F;
+text-decoration: none;
+}
+
+a:hover
+{
+text-decoration: underline;
+color: black;
+
+
+}
+
+
+
+
+#text_banniere
+{
+font-family: "Open Sans Condensed";
+text-transform: uppercase;
+padding: 100px;
+
+}
+
+#text_banniere h2
+{
+letter-spacing: 4px;
+font-size: 30px;
+
+}
+
+#text_banniere p
+{
+text-align:center;
+margin-top:50px;
+
+}
+#bouton a{
+text-align:center;
+
+}
+
+
+
+#bouton{
+display:block;
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background-color: #3e414a;
+color:red;
+margin:0 auto;
+border-radius: 8px;
+}
+
+#banniere_description
+{
+
+text-align: center;
+vertical-align: middle;
+font-family: "Open Sans Condensed";
+margin: 0px 0px 0px 0px;
+}
+
+
+#Nos_offres
+{
+/* OU ALORS AUTRE COULEUR #3e414a #89c8c4 */
+font-family: "Open Sans Condensed";
+font-size: 20px;
+background-color: #89c8c4;
+color: white;
+text-align: center;
+padding: 100px;
+
+}
+
+h4
+{
+font-weight: bold;
+
+
+}
+
+#logos
+{
+width: 100%;
+font-family: "Open Sans Condensed";
+overflow:auto;
+
+
+
+
+
+}
+
+
+.feature {
+display: inline-block;
+margin-left: 100px;
+margin-top: 10px;
+margin-bottom: 10px;
+text-align: center;
+font-size: 18px;
+vertical-align: middle;
+
+
+}
+
+.zboob
+{
+border-radius: 60px;
+
+}
+
+.zboob:hover{
+opacity: 0.5;
+}
+
+
+.shadow
+{
+border: 4px solid black;
+
+}
+
+
+
+
+div
+{
+margin-bottom: 100px;
+
+}
+
+#temoignages
+{
+font-size: 10px;
+text-align: center;
+padding: 100px;
+}
+
+#qui_sommes_nous
+{
+background-color: #89c8c4;
+text-align: center;
+padding: 150px;
+
+
+
+
+}
+
+
+#qui_sommes_nous p
+{
+font-size: 20px;
+margin-top: 90px;
+line-height: 35px;
+}
+
+#qui_sommes_nous h2{
+font-size: 30px;
+}
+
+.nous{
+margin: 80px 50px 0px 50px;
+border-radius: 40px;
+}
+
+
+
+.nous:hover{
+opacity: 0.5;
+}
+
+footer{
+text-align:center;
+}
+
+
+footer h4
+{
+
+margin-bottom:50px;
+
+}
+
+
+#Nos_offres h4
+{
+text-transform: uppercase;
+letter-spacing:1px;
+font-size: 20px;
+font-weight: bold;
+}
+
+#Nos_offres hr
+{
+border: 0;
+height: 0;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#Nos_offres p
+{
+font-family: 'Dosis', sans-serif;
+}
+
+.prix {
+
+color: black;
+margin-bottom: 30px;
+
+}
+
+
+			
